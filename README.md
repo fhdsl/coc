@@ -4,10 +4,10 @@ The Fred Hutch Data Science Lab (FH DaSL) is committed to providing a welcoming,
 
 FH DaSL group members violating these rules will be referred to TBD and will no longer be allowed to participate in FH DaSL activities. 
 
-## All Leek Group members agree to:
+## All FH DaSL Group members agree to:
 
 __Be considerate__ in speech and actions, and actively seek to acknowledge and respect the boundaries of other members.
-__Be respectful__ Disagreements happen, but do not require poor behavior or poor manners. Frustration is inevitable, but it should never turn into a personal attack. A community where people feel uncomfortable or threatened is not a productive one. Leek Group members should be respectful with other members in the group as well as members outside of the Leek Group.
+__Be respectful__ Disagreements happen, but do not require poor behavior or poor manners. Frustration is inevitable, but it should never turn into a personal attack. A community where people feel uncomfortable or threatened is not a productive one. FH DaSL members should be respectful with other members in the group as well as members outside of the FH DaSL Group.
 __Refrain from demeaning, discriminatory, or harassing behavior and speech__ Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert Jeff Leek or a member of the FH DaSL Team (Amy Paguirigan or Sean Kross)
 __Take care of each other__ Refrain from advocating for, or encouraging, any of the above behavior. And, if someone asks you to stop, then stop. Alert a faculty member, staff member, or appropriate authorities if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 
