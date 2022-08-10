@@ -6,10 +6,10 @@ FH DaSL group members violating these rules will be referred to TBD and will no 
 
 ## All FH DaSL Group members agree to:
 
-__Be considerate__ in speech and actions, and actively seek to acknowledge and respect the boundaries of other members.
-__Be respectful__ Disagreements happen, but do not require poor behavior or poor manners. Frustration is inevitable, but it should never turn into a personal attack. A community where people feel uncomfortable or threatened is not a productive one. FH DaSL members should be respectful with other members in the group as well as members outside of the FH DaSL Group.
-__Refrain from demeaning, discriminatory, or harassing behavior and speech__ Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert Jeff Leek or a member of the FH DaSL Team (Amy Paguirigan or Sean Kross)
-__Take care of each other__ Refrain from advocating for, or encouraging, any of the above behavior. And, if someone asks you to stop, then stop. Alert a faculty member, staff member, or appropriate authorities if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
+* __Be considerate__ in speech and actions, and actively seek to acknowledge and respect the boundaries of other members.
+* __Be respectful__ Disagreements happen, but do not require poor behavior or poor manners. Frustration is inevitable, but it should never turn into a personal attack. A community where people feel uncomfortable or threatened is not a productive one. FH DaSL members should be respectful with other members in the group as well as members outside of the FH DaSL Group.
+* __Refrain from demeaning, discriminatory, or harassing behavior and speech__ Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert Jeff Leek or a member of the FH DaSL Team (Amy Paguirigan or Sean Kross)
+* __Take care of each other__ Refrain from advocating for, or encouraging, any of the above behavior. And, if someone asks you to stop, then stop. Alert a faculty member, staff member, or appropriate authorities if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 
 ## Need Help?
 
@@ -17,7 +17,12 @@ Please speak with Jeff Leek or a member of the FH DaSL Team (Amy Paguirigan or S
 
 You may also reach out to any Fred Hutch resource for sexual harassment, discrimination, or misconduct:
   
-- Need to fill in here 
+- Human Resources;
+- Any Manager;
+- The Compliance, Ethics & Integrity Office; or
+- An attorney in the Office of the General Counsel
+
+You may also report to Navex Global. See the [Hutch Harrassment and Other Discrimination Policy](https://centernet.fredhutch.org/cn/p/lcex/harassment-and-other-discrimination.html) for additional reporting options, information on requirements for managers when receiving reports, and frequently asked questions about the Fred Hutch Policy on Workplace Investigations.
 
 ## Feedback
 
