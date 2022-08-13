@@ -1,8 +1,8 @@
 ## Fred Hutch Data Science Lab Code of Conduct
 
-The Fred Hutch Data Science Lab (FH DaSL) is committed to providing a welcoming, inclusive, and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), political beliefs/leanings, or technology choices. We do not tolerate harassment of group members in any form. Sexual language and imagery is not appropriate for any work event, including group meetings, conferences, talks, parties, Twitter and other online media. This code of conduct applies to all group members, including leadership, and applies to all modes of interaction, both in-person and online, including GitHub project repos, Slack channels, Basecamp, and Twitter.
+The Fred Hutch Data Science Lab (FH DaSL) is committed to providing a welcoming, inclusive, and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), political beliefs/leanings, or technology choices. We do not tolerate harassment of group members in any form. Sexual language and imagery is not appropriate for any work event, including group meetings, conferences, talks, parties, Twitter and other online media. This code of conduct applies to all group members, including leadership, and applies to all modes of interaction, both in-person and online, including GitHub project repos, Slack channels, Basecamp, and Twitter. 
 
-FH DaSL group members violating these rules will be referred to TBD and will no longer be allowed to participate in FH DaSL activities. 
+FH DaSL group members violating these rules will be referred according to the [Hutch Harrassment and Other Discrimination Policy](https://centernet.fredhutch.org/cn/p/lcex/harassment-and-other-discrimination.html) and will no longer be allowed to participate in FH DaSL activities. 
 
 ## All FH DaSL Group members agree to:
 
