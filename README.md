@@ -13,7 +13,7 @@ FH DaSL group members violating these rules will be referred according to the [H
 
 ## Need Help?
 
-You can always speak  with Jeff Leek or a member of the FH DaSL Team (Amy Paguirigan or Sean Kross), however your supervisor or HR Business Partner will often be the best person to help you resolve your concern. The [Fred Hutch Open Door Policy](https://centernet.fredhutch.org/cn/p/open-door-policy.html) outlines who you can contact for support and the reporting policies and procedures. The FH DaSL HR contact is Eileen Formane. If you choose for whatever reason not to report your concern to them, there are a variety of other options available to you for reporting feedback or concerns. You should choose whichever reporting option you are most comfortable using:
+You can always speak  with Jeff Leek or a member of the FH DaSL Team (Amy Paguirigan or Sean Kross), however your supervisor or HR Business Partner will often be the best person to help you resolve your concern. The [Fred Hutch Open Door Policy](https://centernet.fredhutch.org/cn/p/open-door-policy.html) outlines who you can contact for support and the reporting policies and procedures. The FH DaSL HR contact is Eileen Formanes. If you choose for whatever reason not to report your concern to them, there are a variety of other options available to you for reporting feedback or concerns. You should choose whichever reporting option you are most comfortable using:
 
 - Your manager, your PI, or anyone else at a manager level or above at Fred Hutch; OR
 - An HR Business Partner; OR
