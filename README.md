@@ -13,16 +13,16 @@ FH DaSL group members violating these rules will be referred according to the [H
 
 ## Need Help?
 
-Please speak with Jeff Leek or a member of the FH DaSL Team (Amy Paguirigan or Sean Kross). 
+You can always speak  with Jeff Leek or a member of the FH DaSL Team (Amy Paguirigan or Sean Kross), however your supervisor or HR Business Partner will often be the best person to help you resolve your concern. The [Fred Hutch Open Door Policy](https://centernet.fredhutch.org/cn/p/open-door-policy.html) outlines who you can contact for support and the reporting policies and procedures. The FH DaSL HR contact is Eileen Formane. If you choose for whatever reason not to report your concern to them, there are a variety of other options available to you for reporting feedback or concerns. You should choose whichever reporting option you are most comfortable using:
 
-You may also reach out to any Fred Hutch resource for sexual harassment, discrimination, or misconduct:
-  
-- Human Resources;
-- Any Manager;
-- The Compliance, Ethics & Integrity Office; or
-- An attorney in the Office of the General Counsel
+- Your manager, your PI, or anyone else at a manager level or above at Fred Hutch; OR
+- An HR Business Partner; OR
+- The Office of Diversity, Equity & Inclusion; OR
+- Use the Fred Hutch Hotline, either online or via telephone, which includes options for anonymous reporting; OR
+- An attorney in the Office of General Counsel; OR
+- The Ethics and Compliance Office.
 
-You may also report to Navex Global. See the [Hutch Harrassment and Other Discrimination Policy](https://centernet.fredhutch.org/cn/p/lcex/harassment-and-other-discrimination.html) for additional reporting options, information on requirements for managers when receiving reports, and frequently asked questions about the Fred Hutch Policy on Workplace Investigations.
+See the [Hutch Harrassment and Other Discrimination Policy](https://centernet.fredhutch.org/cn/p/lcex/harassment-and-other-discrimination.html) for additional reporting options, information on requirements for managers when receiving reports, and frequently asked questions about the Fred Hutch Policy on Workplace Investigations.
 
 ## Feedback
 
